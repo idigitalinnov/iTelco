@@ -1,0 +1,5 @@
+D:\Project\iTELCO\Dependency Resolvers\iTELCO.DependencyResolver.Web\bin\Debug\iTELCO.DependencyResolver.Web.dll
+D:\Project\iTELCO\Dependency Resolvers\iTELCO.DependencyResolver.Web\bin\Debug\iTELCO.DependencyResolver.Web.pdb
+D:\Project\iTELCO\Dependency Resolvers\iTELCO.DependencyResolver.Web\obj\Debug\iTELCO.DependencyResolver.Web.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Dependency Resolvers\iTELCO.DependencyResolver.Web\obj\Debug\iTELCO.DependencyResolver.Web.dll
+D:\Project\iTELCO\Dependency Resolvers\iTELCO.DependencyResolver.Web\obj\Debug\iTELCO.DependencyResolver.Web.pdb

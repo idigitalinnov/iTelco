@@ -1,0 +1,5 @@
+D:\Project\iTELCO\Repository Interfaces\iTELCO.RepositoryInterfaces\bin\Debug\iTELCO.RepositoryInterfaces.dll
+D:\Project\iTELCO\Repository Interfaces\iTELCO.RepositoryInterfaces\bin\Debug\iTELCO.RepositoryInterfaces.pdb
+D:\Project\iTELCO\Repository Interfaces\iTELCO.RepositoryInterfaces\obj\Debug\iTELCO.RepositoryInterfaces.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Repository Interfaces\iTELCO.RepositoryInterfaces\obj\Debug\iTELCO.RepositoryInterfaces.dll
+D:\Project\iTELCO\Repository Interfaces\iTELCO.RepositoryInterfaces\obj\Debug\iTELCO.RepositoryInterfaces.pdb

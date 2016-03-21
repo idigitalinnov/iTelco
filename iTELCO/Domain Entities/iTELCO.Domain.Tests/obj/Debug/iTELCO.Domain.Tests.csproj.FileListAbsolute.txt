@@ -1,0 +1,5 @@
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain.Tests\bin\Debug\iTELCO.Domain.Tests.dll
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain.Tests\bin\Debug\iTELCO.Domain.Tests.pdb
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain.Tests\obj\Debug\iTELCO.Domain.Tests.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain.Tests\obj\Debug\iTELCO.Domain.Tests.dll
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain.Tests\obj\Debug\iTELCO.Domain.Tests.pdb

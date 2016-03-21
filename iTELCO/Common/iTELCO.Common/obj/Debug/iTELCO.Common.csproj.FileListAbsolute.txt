@@ -1,0 +1,5 @@
+D:\Project\iTELCO\Common\iTELCO.Common\bin\Debug\iTELCO.Common.dll
+D:\Project\iTELCO\Common\iTELCO.Common\bin\Debug\iTELCO.Common.pdb
+D:\Project\iTELCO\Common\iTELCO.Common\obj\Debug\iTELCO.Common.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Common\iTELCO.Common\obj\Debug\iTELCO.Common.dll
+D:\Project\iTELCO\Common\iTELCO.Common\obj\Debug\iTELCO.Common.pdb

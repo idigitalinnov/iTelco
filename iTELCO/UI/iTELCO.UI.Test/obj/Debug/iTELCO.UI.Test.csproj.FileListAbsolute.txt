@@ -1,0 +1,5 @@
+D:\Project\iTELCO\UI\iTELCO.UI.Test\bin\Debug\iTELCO.UI.Test.dll
+D:\Project\iTELCO\UI\iTELCO.UI.Test\bin\Debug\iTELCO.UI.Test.pdb
+D:\Project\iTELCO\UI\iTELCO.UI.Test\obj\Debug\iTELCO.UI.Test.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\UI\iTELCO.UI.Test\obj\Debug\iTELCO.UI.Test.dll
+D:\Project\iTELCO\UI\iTELCO.UI.Test\obj\Debug\iTELCO.UI.Test.pdb

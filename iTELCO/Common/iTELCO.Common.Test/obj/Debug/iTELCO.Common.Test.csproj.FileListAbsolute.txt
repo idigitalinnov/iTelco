@@ -1,0 +1,4 @@
+D:\Project\iTELCO\Common\iTELCO.Common.Test\bin\Debug\iTELCO.Common.Test.dll
+D:\Project\iTELCO\Common\iTELCO.Common.Test\bin\Debug\iTELCO.Common.Test.pdb
+D:\Project\iTELCO\Common\iTELCO.Common.Test\obj\Debug\iTELCO.Common.Test.dll
+D:\Project\iTELCO\Common\iTELCO.Common.Test\obj\Debug\iTELCO.Common.Test.pdb
