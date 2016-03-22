@@ -2,3 +2,8 @@ D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvi
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\bin\Debug\iTELCO.Infrastructure.Log4NetProvider.pdb
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\obj\Debug\iTELCO.Infrastructure.Log4NetProvider.dll
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\obj\Debug\iTELCO.Infrastructure.Log4NetProvider.pdb
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\bin\Debug\iTELCO.BusinessInterfaces.dll
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\bin\Debug\log4net.dll
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\bin\Debug\iTELCO.BusinessInterfaces.pdb
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\bin\Debug\log4net.xml
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\obj\Debug\iTELCO.Infrastructure.Log4NetProvider.csprojResolveAssemblyReference.cache

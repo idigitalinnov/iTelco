@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace iTELCO.DependencyResolver.Web
+namespace iTELCO.RepositoryInterfaces
 {
     public class Class1
     {

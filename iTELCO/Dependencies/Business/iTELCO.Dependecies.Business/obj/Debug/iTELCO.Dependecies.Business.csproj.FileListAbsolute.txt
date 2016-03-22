@@ -2,3 +2,4 @@ D:\Project\iTELCO\Dependencies\Business\iTELCO.Dependecies.Business\bin\Debug\iT
 D:\Project\iTELCO\Dependencies\Business\iTELCO.Dependecies.Business\bin\Debug\iTELCO.Dependecies.Business.pdb
 D:\Project\iTELCO\Dependencies\Business\iTELCO.Dependecies.Business\obj\Debug\iTELCO.Dependecies.Business.dll
 D:\Project\iTELCO\Dependencies\Business\iTELCO.Dependecies.Business\obj\Debug\iTELCO.Dependecies.Business.pdb
+D:\Project\iTELCO\Dependencies\Business\iTELCO.Dependecies.Business\obj\Debug\iTELCO.Dependecies.Business.csprojResolveAssemblyReference.cache
