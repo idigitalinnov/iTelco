@@ -1,4 +1,5 @@
 D:\Project\iTELCO\Business Layer Interfaces\iTELCO.BusinessInterfaces\bin\Debug\iTELCO.BusinessInterfaces.dll
 D:\Project\iTELCO\Business Layer Interfaces\iTELCO.BusinessInterfaces\bin\Debug\iTELCO.BusinessInterfaces.pdb
+D:\Project\iTELCO\Business Layer Interfaces\iTELCO.BusinessInterfaces\obj\Debug\iTELCO.BusinessInterfaces.csprojResolveAssemblyReference.cache
 D:\Project\iTELCO\Business Layer Interfaces\iTELCO.BusinessInterfaces\obj\Debug\iTELCO.BusinessInterfaces.dll
 D:\Project\iTELCO\Business Layer Interfaces\iTELCO.BusinessInterfaces\obj\Debug\iTELCO.BusinessInterfaces.pdb

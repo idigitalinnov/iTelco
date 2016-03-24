@@ -1,0 +1,19 @@
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\obj\Debug\iTELCO.Data.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\obj\Debug\iTELCO.Domain.dll
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\obj\Debug\iTELCO.Domain.pdb
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\iTELCO.Domain.dll.config
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\iTELCO.Domain.pdb
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\EntityFramework.dll
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\iTELCO.RepositoryInterfaces.dll
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\iTELCO.RepositoryInterfaces.pdb
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\EntityFramework.xml
+D:\Project\iTELCO\Domain Entities\iTELCO.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.Domain.dll.config
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.Domain.dll
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.Domain.pdb
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.RepositoryInterfaces.dll
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.RepositoryInterfaces.pdb
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\obj\Debug\iTELCO.Data.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\obj\Debug\iTELCO.Domain.dll
+D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\obj\Debug\iTELCO.Domain.pdb

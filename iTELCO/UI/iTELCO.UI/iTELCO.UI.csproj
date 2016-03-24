@@ -47,6 +47,17 @@
       <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web">
+      <HintPath>..\..\packages\Ninject.Web.3.2.1.0\lib\net45-full\Ninject.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Common, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Ninject.Web.Common.3.2.3.0\lib\net45-full\Ninject.Web.Common.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -131,6 +142,9 @@
       <Private>True</Private>
       <HintPath>..\packages\System.Spatial.5.2.0\lib\net40\System.Spatial.dll</HintPath>
     </Reference>
+    <Reference Include="WebActivatorEx">
+      <HintPath>..\..\packages\WebActivatorEx.2.0.6\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.3.0\lib\WebGrease.dll</HintPath>
@@ -143,6 +157,8 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\NinjectWeb.cs" />
+    <Compile Include="App_Start\NinjectWebCommon.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
@@ -264,6 +280,44 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business Layer Interfaces\iTELCO.BusinessInterfaces\iTELCO.BusinessInterfaces.csproj">
+      <Project>{ded6e4d7-2f29-43c5-a153-c1c7c9900f75}</Project>
+      <Name>iTELCO.BusinessInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\iTELCO.Common\iTELCO.Common.csproj">
+      <Project>{a1a0aeec-fe18-4f2f-a761-2e9882c4b536}</Project>
+      <Name>iTELCO.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dependencies\Business\iTELCO.Dependecies.Business\iTELCO.Dependecies.Business.csproj">
+      <Project>{063de7d7-ee5f-4144-8a7b-16b08709061c}</Project>
+      <Name>iTELCO.Dependecies.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dependencies\Data\iTELCO.Dependencies.Data\iTELCO.Data.csproj">
+      <Project>{e969642c-a66e-4e2e-abea-49bae7d086e7}</Project>
+      <Name>iTELCO.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\iTELCO.Infrastructure.Log4NetProvider.csproj">
+      <Project>{f6e0e341-9ef4-45bf-a9cc-f8b964ce4d66}</Project>
+      <Name>iTELCO.Infrastructure.Log4NetProvider</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\iTELCO.Infrastructure.WebMatrixSecurity.csproj">
+      <Project>{93deaa93-a393-4207-9fa8-902157b56a2d}</Project>
+      <Name>iTELCO.Infrastructure.WebMatrixSecurity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Dependency Resolvers\iTELCO.DependencyResolver.Web\iTELCO.DependencyResolver.Web.csproj">
+      <Project>{a967f970-4f53-4a89-ba43-c9e183de8e3e}</Project>
+      <Name>iTELCO.DependencyResolver.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Domain Entities\iTELCO.Domain\iTELCO.Domain.csproj">
+      <Project>{7ed2aa9a-feed-4374-b15b-fd67cd1bc627}</Project>
+      <Name>iTELCO.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Repository Interfaces\iTELCO.RepositoryInterfaces\iTELCO.RepositoryInterfaces.csproj">
+      <Project>{7ad6a117-640e-4c79-ae27-58603eff7058}</Project>
+      <Name>iTELCO.RepositoryInterfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

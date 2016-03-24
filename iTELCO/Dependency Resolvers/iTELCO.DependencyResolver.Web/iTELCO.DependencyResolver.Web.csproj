@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessNinjectModule.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Container.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepositoryNinjectModule.cs" />
@@ -69,6 +70,10 @@
       <Project>{ded6e4d7-2f29-43c5-a153-c1c7c9900f75}</Project>
       <Name>iTELCO.BusinessInterfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Dependencies\Data\iTELCO.Dependencies.Data\iTELCO.Data.csproj">
+      <Project>{e969642c-a66e-4e2e-abea-49bae7d086e7}</Project>
+      <Name>iTELCO.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Dependencies\Infrastructure\iTELCO.Infrastructure.Log4NetProvider\iTELCO.Infrastructure.Log4NetProvider.csproj">
       <Project>{f6e0e341-9ef4-45bf-a9cc-f8b964ce4d66}</Project>
       <Name>iTELCO.Infrastructure.Log4NetProvider</Name>
@@ -76,6 +81,10 @@
     <ProjectReference Include="..\..\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\iTELCO.Infrastructure.WebMatrixSecurity.csproj">
       <Project>{93deaa93-a393-4207-9fa8-902157b56a2d}</Project>
       <Name>iTELCO.Infrastructure.WebMatrixSecurity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Repository Interfaces\iTELCO.RepositoryInterfaces\iTELCO.RepositoryInterfaces.csproj">
+      <Project>{7ad6a117-640e-4c79-ae27-58603eff7058}</Project>
+      <Name>iTELCO.RepositoryInterfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

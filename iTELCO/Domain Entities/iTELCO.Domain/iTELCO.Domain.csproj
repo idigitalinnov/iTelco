@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E969642C-A66E-4E2E-ABEA-49BAE7D086E7}</ProjectGuid>
+    <ProjectGuid>{7ED2AA9A-FEED-4374-B15B-FD67CD1BC627}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>iTELCO.Domain</RootNamespace>
@@ -40,7 +40,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Key.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\iTELCO.Common\iTELCO.Common.csproj">
+      <Project>{a1a0aeec-fe18-4f2f-a761-2e9882c4b536}</Project>
+      <Name>iTELCO.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

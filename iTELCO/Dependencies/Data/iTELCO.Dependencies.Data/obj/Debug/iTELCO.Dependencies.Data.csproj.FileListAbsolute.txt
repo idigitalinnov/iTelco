@@ -1,5 +1,0 @@
-D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.Dependencies.Data.dll
-D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\bin\Debug\iTELCO.Dependencies.Data.pdb
-D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\obj\Debug\iTELCO.Dependencies.Data.dll
-D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\obj\Debug\iTELCO.Dependencies.Data.pdb
-D:\Project\iTELCO\Dependencies\Data\iTELCO.Dependencies.Data\obj\Debug\iTELCO.Dependencies.Data.csprojResolveAssemblyReference.cache

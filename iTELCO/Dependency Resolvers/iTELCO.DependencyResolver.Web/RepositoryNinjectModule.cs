@@ -1,8 +1,8 @@
 ﻿using Ninject.Modules;
 using Ninject.Web.Common;
-using Northwind.MusicStore.Data;
-using Northwind.MusicStore.Data.Context;
-using Northwind.MusicStore.RepositoryInterfaces;
+using iTELCO.Data;
+using iTELCO.Data.Context;
+using iTELCO.RepositoryInterfaces;
 
 namespace iTELCO.DependencyResolver.Web
 {
@@ -11,10 +11,10 @@ namespace iTELCO.DependencyResolver.Web
         public override void Load()
         {
 
-            Bind<IDbContextFactory>().To<MusicStoreDbContextFactory>().InRequestScope();
-            Bind<IUnitOfWork>().To<MusicStoreUnitOfWork>().InRequestScope();
+            Bind<IDbContextFactory>().To<iTELCODbContextFactory>().InRequestScope();
+            Bind<IUnitOfWork>().To<iTELCOUnitOfWork>().InRequestScope();
             
-            Bind<IAlbumsRepository>().To<AlbumRepository>().InRequestScope();
+           // Bind<IAlbumsRepository>().To<AlbumRepository>().InRequestScope();
            
         }
         

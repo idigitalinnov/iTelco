@@ -1,11 +1,11 @@
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\iTELCO.Infrastructure.WebMatrixSecurity.dll
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\iTELCO.Infrastructure.WebMatrixSecurity.pdb
-D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\obj\Debug\iTELCO.Infrastructure.WebMatrixSecurity.dll
-D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\obj\Debug\iTELCO.Infrastructure.WebMatrixSecurity.pdb
-D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\obj\Debug\iTELCO.Infrastructure.WebMatrixSecurity.csprojResolveAssemblyReference.cache
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\iTELCO.BusinessInterfaces.dll
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\WebMatrix.Data.dll
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\WebMatrix.WebData.dll
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\iTELCO.BusinessInterfaces.pdb
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\WebMatrix.Data.xml
 D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\bin\Debug\WebMatrix.WebData.xml
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\obj\Debug\iTELCO.Infrastructure.WebMatrixSecurity.csprojResolveAssemblyReference.cache
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\obj\Debug\iTELCO.Infrastructure.WebMatrixSecurity.dll
+D:\Project\iTELCO\Dependencies\Infrastructure\iTELCO.Infrastructure.WebMatrixSecurity\obj\Debug\iTELCO.Infrastructure.WebMatrixSecurity.pdb
